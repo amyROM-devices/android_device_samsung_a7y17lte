@@ -23,3 +23,7 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 TARGET_SYSTEM_PROP += device/samsung/a7y17lte/system.prop
 
 $(call inherit-product, device/samsung/universal7880-common/common.mk)
+
+# Overlays
+DEVICE_PACKAGE_OVERLAYS += \
+    $(LOCAL_PATH)/overlay-amy

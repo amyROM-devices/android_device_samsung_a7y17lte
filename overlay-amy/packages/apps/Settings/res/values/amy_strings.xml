@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Maintainer Info -->
+    <string name="amyrom_maintainer">SirRGB</string>
+
+    <!-- amyROM Device Info -->
+    <string name="amy_device_platform_summary">universal7880</string>
+    <string name="amy_chipset_type_summary">Exynos 7880</string>
+    <string name="amy_gpu_summary">Mali-T830MP3</string>
+    <string name="amy_camera_mp_summary">16MP Camera</string>
+    <string name="amy_screen_type_summary">Super AMOLED FHD 5.7" Screen</string>
+</resources>
